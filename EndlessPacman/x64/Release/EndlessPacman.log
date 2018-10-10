@@ -1,0 +1,13 @@
+﻿  EndlessPacman.cpp
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(157): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(263): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(266): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(269): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(272): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating code
+  10 of 272 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  EndlessPacman.vcxproj -> C:\Users\kmiro\source\repos\EndlessPacman\x64\Release\EndlessPacman.exe

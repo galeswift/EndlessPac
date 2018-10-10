@@ -1,0 +1,8 @@
+﻿  EndlessPacman.cpp
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(303): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(304): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(409): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(412): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(415): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\kmiro\source\repos\endlesspacman\endlesspacman\endlesspacman.cpp(418): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  EndlessPacman.vcxproj -> C:\Users\kmiro\source\repos\EndlessPacman\x64\Debug\EndlessPacman.exe
